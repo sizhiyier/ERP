@@ -26,11 +26,11 @@
 
 ​		实验者让被试看由80%的字母"X"与20%的字母"O"所组成的刺激序列，看见"X"按一个键，看见"O"按另一个键。每个字母在显示器上呈现100ms，接着是1400ms的刺激间隔
 
-![image-20221104101548234](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104101548234.png)
+![image-20221104101548234](images\image-20221104101548234.png)
 
 ​	方框内是每次刺激800ms的EEG epoch  **注：图中负波是向上的**
 
-![image-20221104101754247](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104101754247.png)
+![image-20221104101754247](images\image-20221104101754247.png)
 
 ​		记录结束后，我们采取一种简单的信号平均法来提取被字母"X"与"O"所诱发的ERPs。具体来说，我们分段提取与"X"和"O"相应的EEG，并把这些EED按照标记码分段排列起来（标记码位于每次刺激的起始点），然后对这些单试次波形进行简单的迭加平均，从而在每个电极位置上生成平均ERP波形。
 
@@ -38,11 +38,11 @@
 
 *提示1.1	采取哪种方式*
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104101947552.png" alt="image-20221104101947552" style="zoom: 67%;" />
+<img src="images\image-20221104101947552.png" alt="image-20221104101947552" style="zoom: 67%;" />
 
 *提示1.2 成分命名常规*
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104103413464.png" alt="image-20221104103413464" style="zoom:67%;" />
+<img src="images\image-20221104103413464.png" alt="image-20221104103413464" style="zoom:67%;" />
 
 ​		初始峰P1是一个固有的感觉反应，它由视觉刺激所诱发，而不管被试执行什么任务（任务变化可以影响P1的振幅，但执行什么样的任务不是诱发P1的必要条件），早期的感觉反应还称为“外生成分”(exogenous component)，表示它依赖外部而不是内部因素。
 
@@ -50,7 +50,7 @@
 
 ## 一个实际实验
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104105222304.png" alt="image-20221104105222304" style="zoom:67%;" />
+<img src="images\image-20221104105222304.png" alt="image-20221104105222304" style="zoom:67%;" />
 
 ​		实验目的：视觉搜索中检测由颜色与运动所定义的靶是否使用同一个注意系统
 
@@ -68,7 +68,7 @@
 
 ## ERP波形的可靠性
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104124727840.png" alt="image-20221104124727840" style="zoom:67%;" />
+<img src="images\image-20221104124727840.png" alt="image-20221104124727840" style="zoom:67%;" />
 
 + #### 组平均(grand average)ERP波形
 
@@ -104,7 +104,7 @@
 
 + 与其他生理测量的比较
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104141528489.png" alt="image-20221104141528489"  />
+<img src="images\image-20221104141528489.png" alt="image-20221104141528489"  />
 
 ## ERP的神经起源
 
@@ -124,7 +124,7 @@
 
 ​		一个动作电位大于会持续以毫秒，但突触后电位却能持续几十甚至几百毫秒。此外，突触后电位主要局限于树突与细胞体；它基本上是瞬时出现，而不是以固定速率沿着轴突传递。在一定条件下，这些因素就允许突触后电位累加而不是抵消，于是我们可以在头皮记录。
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104224245224.png" alt="image-20221104224245224" style="zoom:67%;" />
+<img src="images\image-20221104224245224.png" alt="image-20221104224245224" style="zoom:67%;" />
 
 ​		如图1.4A所示，如果皮层椎体细胞的顶树突释放一种兴奋性神经递质，那么电流就会从细胞膜外流入细胞内，于是顶树突区域的细胞膜外部就带负电；同时为了形成环路，电路又会从细胞体与基树突流出，造成这个区域带正电。结果，顶树突的负电与细胞体的正电就形成了一个微小的偶极子(dipole)。简单来说，一个偶极子就是小距离隔开一对正负电位。
 
@@ -144,27 +144,27 @@
 
 #### C1
 
-![image-20221104151429816](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104151429816.png)
+![image-20221104151429816](images\image-20221104151429816.png)
 
 #### P1
 
-![image-20221104151540552](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104151540552.png)
+![image-20221104151540552](images\image-20221104151540552.png)
 
-![image-20221104151554378](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104151554378.png)
+![image-20221104151554378](images\image-20221104151554378.png)
 
 #### N1
 
-![image-20221104152237236](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104152237236.png)
+![image-20221104152237236](images\image-20221104152237236.png)
 
 #### P2
 
-![image-20221104152347057](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104152347057.png)
+![image-20221104152347057](images\image-20221104152347057.png)
 
 #### N170与顶正电位
 
-![image-20221104152516672](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104152516672.png)
+![image-20221104152516672](images\image-20221104152516672.png)
 
-![image-20221104152528418](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104152528418.png)
+![image-20221104152528418](images\image-20221104152528418.png)
 
 ### 听觉的感觉反应
 
@@ -172,70 +172,70 @@
 
 脑干诱发反应(brainstem evoked responses,BERs)\听觉脑干反应(auditory brainstem responses,ABRs)
 
-![image-20221104152722283](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104152722283.png)
+![image-20221104152722283](images\image-20221104152722283.png)
 
 #### N1
 
-![image-20221104153137012](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104153137012.png)
+![image-20221104153137012](images\image-20221104153137012.png)
 
 #### 失匹配负波 MMN
 
 mismatched negativity 
 
-![image-20221104153347818](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104153347818.png)
+![image-20221104153347818](images\image-20221104153347818.png)
 
-![image-20221104153357083](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104153357083.png)
+![image-20221104153357083](images\image-20221104153357083.png)
 
 ### 体感、嗅觉与味觉的感觉反应
 
-![image-20221104153810891](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104153810891.png)
+![image-20221104153810891](images\image-20221104153810891.png)
 
 ### N2家族
 
-![image-20221104155210026](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104155210026.png)
+![image-20221104155210026](images\image-20221104155210026.png)
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104155247790.png" alt="image-20221104155247790" style="zoom:150%;" />
+<img src="images\image-20221104155247790.png" alt="image-20221104155247790" style="zoom:150%;" />
 
 ### P3家族
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104160105857.png" alt="image-20221104160105857" style="zoom:150%;" />
+<img src="images\image-20221104160105857.png" alt="image-20221104160105857" style="zoom:150%;" />
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104160229507.png" alt="image-20221104160229507" style="zoom:150%;" />
+<img src="images\image-20221104160229507.png" alt="image-20221104160229507" style="zoom:150%;" />
 
-![image-20221104160322517](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104160322517.png)
+![image-20221104160322517](images\image-20221104160322517.png)
 
 ### 语言相关的ERP成分
 
 #### N400
 
-![image-20221104160509122](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104160509122.png)
+![image-20221104160509122](images\image-20221104160509122.png)
 
-![image-20221104160607666](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104160607666.png)
+![image-20221104160607666](images\image-20221104160607666.png)
 
 #### P600
 
-![image-20221104160639219](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104160639219.png)
+![image-20221104160639219](images\image-20221104160639219.png)
 
 ### 错误检测
 
 错误相关负波      (ERN,error-related negativity)
 
-![image-20221104162301267](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104162301267.png)
+![image-20221104162301267](images\image-20221104162301267.png)
 
-![image-20221104162318270](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104162318270.png)
+![image-20221104162318270](images\image-20221104162318270.png)
 
 ### 反应相关的ERP成分
 
 #### BP(Bereitschafts potential)/RP(readiness potential)
 
-![image-20221104162624333](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104162624333.png)
+![image-20221104162624333](images\image-20221104162624333.png)
 
 #### LRP
 
-![image-20221104162814691](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104162814691.png)
+![image-20221104162814691](images\image-20221104162814691.png)
 
-![image-20221104162828755](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104162828755.png)
+![image-20221104162828755](images\image-20221104162828755.png)
 
 CNV 关联性负变化
 
-![image-20221104163008803](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221104163008803.png)
+![image-20221104163008803](images\image-20221104163008803.png)
