@@ -2,7 +2,7 @@
 
 ## 波峰与潜在的ERP成分
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221105111029344.png" alt="image-20221105111029344" style="zoom:67%;" />
+<img src="images\image-20221105111029344.png" alt="image-20221105111029344" style="zoom:67%;" />
 
 ### 电压峰并非特异的
 
@@ -56,15 +56,15 @@
 
 ### 4.用差异波来分离成分
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221105141301461.png" alt="image-20221105141301461" style="zoom: 67%;" />
+<img src="images\image-20221105141301461.png" alt="image-20221105141301461" style="zoom: 67%;" />
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221105141345480.png" alt="image-20221105141345480" style="zoom:67%;" />
+<img src="images\image-20221105141345480.png" alt="image-20221105141345480" style="zoom:67%;" />
 
 ### 5.聚焦于容易分离的成分
 
 ### 6.使用成分独立的实验设计
 
-<img src="C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221105141652816.png" alt="image-20221105141652816" style="zoom:67%;" />
+<img src="images\image-20221105141652816.png" alt="image-20221105141652816" style="zoom:67%;" />
 
 ## 避免混淆与曲解
 
@@ -72,10 +72,10 @@
 
 ​		最基本的实验原理是，要确保一个给定的实验效应只要一个可能原因。这个原理一方面要避免混淆；但另一个更微妙的方面是，要确保实验操作不产生二次反应。例如，你观察到一杯热水的质量小于一杯凉水的质量，期实际原因是热水一部分变为水蒸气跑掉了。要想得到正确结论就必须密封烧杯，不能使水蒸发。类似的，在ERP实验的实验操作中，重要的就是确保没有课导致错误结论的无意副作用。
 
-![image-20221105144007265](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221105144007265.png)
+![image-20221105144007265](images\image-20221105144007265.png)
 
 ​		你需要非常小心地避免将心理因素的差异同刺激因素的细微差异相混淆。例如在上述实验举例中，靶与非靶字母的概率差异——这是想研究的一种心理操作——就同形状差异以及感觉适应差异相混淆。要解决这种混淆，就要确保你的心理变量操作不伴有任何的刺激变化。一般要做的是，在两种或者更多的条件下，使用同样的刺激系列，而且要用口头或者书写的指导语来操控被试的任务。
 
 ​		**Hillyard原理——一定要比较相同物理刺激所诱发的ERPs，改变的仅仅是心理条件。**
 
-![image-20221105185545265](C:\Users\XUE\AppData\Roaming\Typora\typora-user-images\image-20221105185545265.png)
+![image-20221105185545265](images\image-20221105185545265.png)
